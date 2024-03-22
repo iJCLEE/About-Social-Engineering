@@ -4,7 +4,7 @@ accompanied by explanations:
 
 
 Different kind of Social Engineering attacks:
-![SocialEngineering experience](https://github.com/iJCLEE/About-Social-Engineering/assets/61095429/0ebf3a0b-720d-4de6-9346-ec89185dc7bf)
+![SocialEngineering experience](https://github.com/iJCLEE/About-Social-Engineering/assets/61095429/385cc064-8b6f-4848-8c68-2eccdc4396f5)
 
 
 A simple guide that can help you protect your account from social engineering:
